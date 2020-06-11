@@ -5,4 +5,4 @@
 2 - npm run knex:migrate <br />
 3 - npm run knex:seed
 
-## The fronend: https://github.com/Zackwn/ReactApp-frontend
+## The frontend: https://github.com/Zackwn/ReactApp-frontend
