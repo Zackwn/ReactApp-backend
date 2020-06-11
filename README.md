@@ -2,7 +2,7 @@
 
 ## Run:
 1 - npm install <br />
-2 - npm run knex:migrate
+2 - npm run knex:migrate <br />
 3 - npm run knex:seed
 
 ## The fronend: https://github.com/Zackwn/ReactApp-frontend
